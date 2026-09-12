@@ -46,6 +46,7 @@ Busco desarrollarme como **Technical Project Manager / Technical Project Lead**,
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/martin-dario-fernandez/)
-- [GitHub](https://github.com/Fernandez-Martin-Dario)
-- Email: nepeado@gmail.com
+- 🌐 [Portfolio profesional](https://fernandez-martin-dario.github.io/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/martin-dario-fernandez/)
+- 📄 [Ver / descargar CV](https://fernandez-martin-dario.github.io/assets/docs/CV_Martin_Dario_Fernandez.pdf)
+- ✉️ Email: nepeado@gmail.com
